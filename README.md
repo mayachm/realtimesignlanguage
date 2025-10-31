@@ -1,4 +1,4 @@
-# Real-Time Object Detection
+# Real-Time Sign Language
 
 This project trains a custom object detector using the TensorFlow Object Detection API.
 
