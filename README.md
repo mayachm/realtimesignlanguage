@@ -11,5 +11,5 @@ This project trains a custom object detector using the TensorFlow Object Detecti
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/maychm/RealTimeObjectDetection.git
-   cd RealTimeObjectDetection
+   git clone https://github.com/maychm/RealTimesignlanguage.git
+   cd RealTimesignlanguage
