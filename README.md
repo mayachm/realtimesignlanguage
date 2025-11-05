@@ -1,6 +1,7 @@
 # Real-Time Sign Language
 
 This project trains a custom object detector using the TensorFlow Object Detection API.
+For training verification and dataset preview, please check the **proof_pictures** directory in this repository.
 
 ## 🧠 Model
 - Architecture: SSD MobileNet V2 FPNLite 320x320
